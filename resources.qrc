@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/Activities/game1.jpg</file>
+        <file>Assets/Activities/game2.jpg</file>
+        <file>Assets/Activities/game3.jpg</file>
+        <file>Assets/Activities/game4.jpg</file>
+        <file>Assets/Icons/cart.png</file>
+        <file>Assets/Activities/game5.jpg</file>
+        <file>Assets/Activities/game6.jpg</file>
+        <file>Assets/Icons/avatar.jpg</file>
+        <file>Assets/Icons/avatar1.jpg</file>
+        <file>Assets/Icons/avatar2.jpg</file>
+        <file>Assets/Icons/avatar3.jpg</file>
+        <file>Assets/Activities/game1_CA.jpg</file>
+        <file>Assets/Activities/game2_CA.jpg</file>
+        <file>Assets/Activities/game4_CA.jpg</file>
+        <file>Assets/Activities/game5_CA.jpg</file>
+        <file>Assets/Activities/game6_CA.jpg</file>
+        <file>Assets/Activities/game3_CA.jpg</file>
+    </qresource>
+</RCC>
