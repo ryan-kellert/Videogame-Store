@@ -4,9 +4,9 @@
 1.  QT 4.6
 
 ##Getting Started
-''
-1.  '''run qmake Videogame-Store.pro'''
-2.  '''make'''
+
+1.  ```run qmake Videogame-Store.pro```
+2.  ```make```
 3.  run the executable
 
 ##Screenshot
