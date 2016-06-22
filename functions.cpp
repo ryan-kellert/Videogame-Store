@@ -65,16 +65,15 @@ bool Functions::tryPurchase(QPushButton *buyBtn, double price, QPushButton *canB
     QString sPrice = QString::number(price);
     QString Confirm = "Confirm?";
 
-    //If Showing price
+    //If showing price
     if(buyBtn->text() != Confirm){
         showElement(canBtn);
         buyBtn->setText(Confirm);
     }
-    //If Confirming
+    //If confirming purchase
     else if (buyBtn->text() != sPrice){
 
         //If we can afford it
-
         if(!(*dollars - price < 0)) {
             *dollars = *dollars - price;
             hideElement(canBtn);
